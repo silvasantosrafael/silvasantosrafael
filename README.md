@@ -1,6 +1,6 @@
 # Rafael Silva
 
-Desenvolvedor Java a mais de 1 ano, formado na universidade Estácio de Sá.
+Desenvolvedor backend especializado em Java com foco no desenvolvimento de APIs com Spring Boot, formado na universidade Estácio de Sá.
 Mais de 10 anos de experiência na área de TI.
 Apaixonado por tecnologia e por minha esposa ;)
 
